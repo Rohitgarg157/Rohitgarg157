@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://arcade.giphy.com/game/Na63COtGLtdKlVex_m9" width="400"/>
+  <img src="https://arcade.giphy.com/game/Lnnm0X4kQy0so5UHno0"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rohit-garg-6ba781168/">
